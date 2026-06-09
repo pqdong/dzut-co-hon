@@ -1,0 +1,6 @@
+{
+  "name": "DZỰT CÔ HỒN",
+  "description": "Mini-game bắt hồn ma nhận quà với hiệu ứng mượt mà và animation độc đáo.",
+  "requestFramePermissions": ["vibrate"],
+  "majorCapabilities": []
+}
